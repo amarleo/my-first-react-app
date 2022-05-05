@@ -1,5 +1,8 @@
 # My first React App
 
+Tutorial: [Youtube](https://www.youtube.com/watch?v=EMk6nom1aS4)
+Minuto 25:39
+
 ## Install
 
 ```bash
